@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: NROL39 - OSINT Privacy and Hacking
-description: >- My blog about OSINT, Privacy, and hacking
+description: My blog about OSINT, Privacy, and hacking
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
